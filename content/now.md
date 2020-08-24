@@ -16,10 +16,12 @@ Working on building this personal site. Will be adding more content soon!
 ### :books: Currently Reading
 
 Tech related -
+
 - [Rafactoring by Martin Fowler](https://martinfowler.com/books/refactoring.html)
 - Javascript Design Patterns [[e-book]](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
 Other - 
+
 - [Mirrors: Stories of Almost Everyone by Eduardo Galeano](https://www.goodreads.com/book/show/6149162-mirrors)
 - [The Essential Rumi by Rumi, Coleman Barks](https://www.goodreads.com/book/show/304079.The_Essential_Rumi)
 
