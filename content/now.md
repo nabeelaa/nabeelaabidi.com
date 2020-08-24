@@ -11,7 +11,7 @@ Working on building this personal site. Will be adding more content soon!
 ### :nerd_face: Learning
 
 - I'm brushing up my NodeJS skills (building a chatbot, learning how to create micro-services). 
-- In addition to that, I've started learning Go. Hoping to get grasp on the language by the end of this year.
+- In addition to that, I've started learning Go. Hoping to get a grasp on the language by the end of this year.
 
 ### :books: Currently Reading
 
