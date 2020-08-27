@@ -1,7 +1,7 @@
 const CACHE_VERSION = 1;
 
 const BASE_CACHE_FILES = [
-  // '/assets/scss/style.css',
+  // '/scss/style.css',
   // '/js/main.js',
   // '/static/site.webmanifest.json',
   // '/static/favicon.png',
