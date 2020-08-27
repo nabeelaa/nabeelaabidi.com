@@ -21,6 +21,7 @@ tag = "tags"
 # Categories are disabled by default.
 
 [params]
+Description = "My little bubble on the internet"
 dateform = "Jan 2, 2006"
 dateformNum = "2006-01-02"
 dateformNumTime = "2006-01-02 15:04 -0700"
