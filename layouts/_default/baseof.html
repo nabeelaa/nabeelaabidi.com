@@ -26,7 +26,6 @@
 	{{- if templates.Exists "partials/extra-head.html" -}}
 	{{ partial "extra-head.html" . }}
 	{{- end }}
-	<link rel="manifest" href="/manifest.json">
 </head>
 
 <body id="page">
@@ -50,22 +49,6 @@
 	{{- if templates.Exists "partials/extra-foot.html" -}}
 	{{ partial "extra-foot.html" . }}
 	{{- end }}
-
-	<script>
-		if ('serviceWorker' in navigator) {
-			navigator.serviceWorker
-				.register('/sw.js', { scope: '/' })
-				.then(function (registration) {
-					console.log('Service Worker Registered');
-				});
-
-			navigator.serviceWorker
-				.ready
-				.then(function (registration) {
-					console.log('Service Worker Ready');
-				});
-		}
-	</script>
 </body>
 
 </html>
