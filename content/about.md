@@ -1,6 +1,6 @@
 ### :woman_technologist: About me
 
-My curiosity pushes me to constantly learn, discover and pursue different aspects of technology; web and mobile development, programming principles and design patterns, human-computer interaction concepts, Machine Learning and AI. I'm passionate about building impactful apps and using my knowledge and skills in tech to contribute in molding the human experience. 
+My curiosity pushes me to constantly learn, discover and pursue different aspects of technology; web and mobile development, programming principles and design patterns, human-computer interaction concepts, Machine Learning and AI. I'm passionate about building impactful apps and using my knowledge and skills in tech to contribute in molding the human experience.
  
 ❤️ Some things I love
 
@@ -9,4 +9,4 @@ My curiosity pushes me to constantly learn, discover and pursue different aspect
 
 ### :computer: About this site
 
-I created this space to store my thoughts, post notes, share things I discover, set goals for myself and track my journey in learning.  
+I created this space to store my thoughts, post notes, share things I discover, set goals for myself and track my journey in learning.    
