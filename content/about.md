@@ -9,4 +9,4 @@ My curiosity pushes me to constantly learn, discover and pursue different aspect
 
 ### :computer: About this site
 
-I created this space to store my thoughts, post notes, share new things I found out, set goals for myself and track my journey in learning.  
+I created this space to store my thoughts, post notes, share things I discover, set goals for myself and track my journey in learning.  
